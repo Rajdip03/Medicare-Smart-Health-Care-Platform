@@ -279,7 +279,22 @@ Database
 
 ---
 
-# 👨‍💻 Project Objective
+# 🎯 Project Objective
 
-The Medicare Smart Health Care Platform aims to modernize healthcare services by providing a secure, scalable, and user-friendly ecosystem where patients, doctors, and administrators can interact seamlessly while improving healthcare accessibility and operational efficiency.
+Traditional healthcare systems often face several operational challenges that affect both patients and healthcare providers. Long waiting times, paper-based record management, manual data entry, and poor communication between departments can lead to inefficiencies, delays, and errors in patient care.
 
+The objective of the Medicare Smart Health Care Platform is to develop a centralized, secure, and intelligent healthcare management system that digitizes hospital operations and improves the overall patient experience.
+
+### Problems Addressed
+
+- ⏳ **Long Waiting Times**  
+  Manual appointment scheduling often results in delays and extended waiting periods for patients.
+
+- 📄 **Paper-Based Records**  
+  Physical records are difficult to maintain, prone to damage, and challenging to access when needed.
+
+- ⚠️ **Data Entry Errors**  
+  Manual record keeping increases the risk of human errors and inaccurate information.
+
+- 🔄 **Poor Communication**  
+  Lack of a centralized system creates communication gaps between patients, doctors, and hospital administration.
