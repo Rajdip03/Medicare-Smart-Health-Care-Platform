@@ -1,5 +1,3 @@
 .env
 
-node_modules/ 
-EMAIL_TROUBLESHOOTING.md
-PRESCIPTION_FEATURE_DOCS.md
+node_modules/
